@@ -22,7 +22,7 @@ const pages = [
   },
   {
     title: "Add Product",
-    url: "/addProduct",
+    url: "/ShopZone/addProduct",
   },
 ];
 
